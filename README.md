@@ -35,7 +35,7 @@ Developed by: **sonjeb**
 
 ## Tech Stack
 - **Backend**: PHP (Custom MVC Framework)
-- **Frontend**: Vanilla CSS (Premium Design System), JavaScript
+- **Frontend**: Vanilla CSS, JavaScript
 - **Database**: MySQL
 - **Icons**: Emoji Glyphs / Google Fonts (Inter & Outfit)
 
