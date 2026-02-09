@@ -4,7 +4,6 @@ A modern, web-based attendance management system built with PHP and a custom MVC
 
 > [!IMPORTANT]
 > This system is currently **UNDER PRODUCTION**. Updates and features are being actively developed.
-
 Developed by: **sonjeb**
 
 ## Table of Contents
